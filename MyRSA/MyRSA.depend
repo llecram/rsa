@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1525530203 source:d:\progrmas hechos por mi\rsa\myrsa\generatekey.cpp
+	"generatekey.h"
+	"operaciones.h"
+
+1525528879 d:\progrmas hechos por mi\rsa\myrsa\generatekey.h
+	<time.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+	"operaciones.h"
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\zz.h
+	<NTL/lip.h>
+	<NTL/tools.h>
+	<NTL/vector.h>
+	<NTL/SmartPtr.h>
+	<NTL/sp_arith.h>
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\lip.h
+	<NTL/ctools.h>
+	<NTL/gmp_aux.h>
+	<NTL/g_lip.h>
+	<NTL/c_lip.h>
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\ctools.h
+	<NTL/config.h>
+	<NTL/mach_desc.h>
+	<NTL/HAVE_LL_TYPE.h>
+	<NTL/HAVE_BUILTIN_CLZL.h>
+	<NTL/HAVE_AVX.h>
+	<NTL/HAVE_FMA.h>
+
+1454188524 d:\ntl\winntl-9_6_4\include\ntl\config.h
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\mach_desc.h
+
+1454188524 d:\ntl\winntl-9_6_4\include\ntl\have_ll_type.h
+
+1454188524 d:\ntl\winntl-9_6_4\include\ntl\have_builtin_clzl.h
+
+1454188524 d:\ntl\winntl-9_6_4\include\ntl\have_avx.h
+
+1454188524 d:\ntl\winntl-9_6_4\include\ntl\have_fma.h
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\g_lip.h
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\c_lip.h
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\tools.h
+	<NTL/ctools.h>
+	<NTL/new.h>
+	<iostream>
+	<new>
+	<stdexcept>
+	<cstdlib>
+	<cmath>
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\new.h
+	<NTL/config.h>
+	<new>
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\vector.h
+	<NTL/tools.h>
+	<new>
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\smartptr.h
+	<NTL/tools.h>
+	<NTL/thread.h>
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\thread.h
+	<NTL/tools.h>
+	<string>
+	<atomic>
+	<mutex>
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\sp_arith.h
+	<NTL/lip.h>
+	<NTL/tools.h>
+	<NTL/SPMM_ASM.h>
+
+1454188522 d:\ntl\winntl-9_6_4\include\ntl\spmm_asm.h
+
+1525530300 source:d:\progrmas hechos por mi\rsa\myrsa\rsa.cpp
+	"rsa.h"
+	"operaciones.h"
+	"generatekey.h"
+
+1525530591 d:\progrmas hechos por mi\rsa\myrsa\rsa.h
+	"operaciones.h"
+	<stdlib.h>
+	<ctime>
+	<string>
+	<vector>
+	<ctime>
+
+1525529126 source:d:\progrmas hechos por mi\rsa\myrsa\main.cpp
+	"rsa.h"
+
+1525528138 d:\progrmas hechos por mi\rsa\myrsa\operaciones.h
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<string>
+	<math.h>
+	<vector>
+
+1525530203 source:d:\progrmas hechos por mi\rsa\myrsa\operaciones.cpp
+	"operaciones.h"
+
